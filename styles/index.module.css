@@ -1,0 +1,115 @@
+.principal__table{
+    background-color: var(--Rose-White);
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+
+.secundary__table{
+    width: 90%;
+    height: 90%;
+    margin: 2rem auto;
+}
+
+.image__food{
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.title__omellete{
+    font-size: 35px;
+    color: var(--Dark-Charcoal);
+    margin-bottom: 1rem;
+}
+
+.secundary__description{
+    margin-top: 2rem;
+}
+
+.description{
+    color:var(--Wenge-Brown)
+}
+
+.preparation__recipe{
+    margin: 3rem 0 4rem 4rem;
+}
+
+.preparation__recipe__title{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: var(--Dark-Raspberry);
+}
+
+.preparation__recipe__li::marker{
+    color: var(--Dark-Raspberry);
+}
+
+.preparation__recipe__li{
+    width: 50%;
+    margin-left: 1.5rem;
+    margin-top: .6rem;
+}
+
+.preparation__recipeSpam{
+    color: var(--Dark-Charcoal);
+    font-weight: 700;
+}
+
+.recipe__ingredients{
+    color:var(--Nutmeg-color);
+    font-size: 1.8rem;
+}
+
+.recipe__ingredients__li::marker{
+    color: var(--Nutmeg-color);
+}
+
+.recipe__ingredients__li{
+    width: 50%;
+    margin-left: 1.5rem;
+}
+
+.recipe__third{
+    padding-bottom: 3rem;
+}
+
+.fourth__section{
+    color:var(--Nutmeg-color);
+    font-size: 1.8rem;
+    margin-bottom: .1rem;
+}
+
+.fourth__span{
+    color: var(--Dark-Charcoal);
+    font-weight: 700;
+}
+
+.fourth__section__li::marker{
+    color: var(--Nutmeg-color);
+    font-weight: 600;
+}
+
+.fourth__section__li{
+    margin-bottom: 1rem;
+    margin-left: 1.3rem;
+}
+
+.fifth__title{
+    color: var(--Nutmeg-color);
+    font-size: 1.8rem;
+    margin-bottom: .1rem;
+    margin-top: 2rem;
+}
+
+.table__nutrition{
+    width: 100%;
+}
+
+.table__td{
+    margin-bottom: 1rem;
+    height: 3rem;
+    border: nonde;
+    border-bottom: 1px solid var(--Light-Grey);
+}
